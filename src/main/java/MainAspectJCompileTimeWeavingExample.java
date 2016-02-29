@@ -15,11 +15,11 @@ public class MainAspectJCompileTimeWeavingExample {
 			//
 		}
 		
-		/*try {
+		try {
 			fooService.helloDifferentLogLevelForExceptions(null,FooService.Gender.MALE);
 		} catch (NullPointerException e) {
 			//
-		}*/
+		}
 		
 	}
 }

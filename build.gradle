@@ -28,4 +28,5 @@ repositories {
 dependencies {
     compile "ch.qos.logback:logback-classic:1.1.2"
     compile "net.sf.aspect4log:aspect4log:1.0.7"
+    aspectpath "net.sf.aspect4log:aspect4log:1.0.7"
 }
